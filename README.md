@@ -56,7 +56,7 @@ I occasionally write about tech, productivity, and creativity:
 ## 🌐 Let's Connect
 
 [![LinkedIn Icon](assets/icons/LinkedIn.png)](https://www.linkedin.com/in/benedict-odoh)
-[![Twitter Icon](assets/icons/Twitter.png)](https://x.com/realBenedictIk)
+[![Twitter Icon](assets/icons/Twitter-light.png)](https://x.com/realBenedictIk)
 [![Email Icon](assets/icons/Gmail.png)](mailto:benedict.ik98@gmail.com)
 [![Medium Icon](assets/icons/Medium.png)](https://benedictodoh.medium.com/)
 
