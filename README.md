@@ -16,30 +16,28 @@ Here are some tools and technologies I work with regularly:
 | Tech Stack | Technologies/Tools/Frameworks
 |----------|------------|
 | Frontend | HTML, CSS, Angular, React, Bootstrap, Tailwind CSS|
-| Backend | C#, .NET, ASP.NET, ASP.NET Core |
-| Mobile | Flutter, Dart |
-| DBMS | MSSQL, MySQL, PostgreSQL, Oracle Sql, MongoDB |
-| Version Control | Git, Github, Azure DevOps |
+| Backend | C#, ASP.NET, Node.js |
+| Mobile | Flutter, Dart, Kotlin |
+| DBMS | MSSQL, MySQL, PostgreSQL, Oracle SQL, MongoDB |
+| Version Control Tools/Systems | Git, Github, Azure DevOps |
 | Development Tools | Visual Studio, VS Code, Postman, Swagger API |
 
 ## 📂 Featured Projects
 
 Here are a few highlights from my portfolio:
 
-### 🔧 [Project Name]
-**Description:** A brief overview of what the project does.  
-**Tech Used:** React, Node.js, MongoDB  
-**Live Demo:** [Link] • **Repo:** [GitHub Link]
+### [Chronicles](https://github.com/Benedict-Ik/Chronicles)
+**Description:** This is a note app inspired by Smarherd.  
+**Tech Used:** Flutter, Dart.
 
-### 📱 [Project Name]
-**Description:** A mobile-first app that solves [problem].  
-**Tech Used:** Flutter, Firebase  
-**Live Demo:** [Link] • **Repo:** [GitHub Link]
+### [JWT Authentication with Identity and Refresh Tokens](https://github.com/Benedict-Ik/JWT_Authentication_with_Identity_and_Refresh_Tokens)
+**Description:** This project demonstrates secure JWT authentication in ASP.NET Core using ASP.NET Core Identity and refresh tokens, covering: User registration, Login, Token generation and validation, and Secure handling of refresh tokens.   
+**Tech Used:** C#, .NET(WebAPI)  
 
-### 🧠 [Project Name]
-**Description:** An AI-powered tool for [use case].  
-**Tech Used:** Python, OpenAI API  
-**Live Demo:** [Link] • **Repo:** [GitHub Link]
+### [TMDB Wrapper Service](https://github.com/Benedict-Ik/TmdbWrapperService)
+
+**Description:** A wrapper service built to consume endpoints from the parent API, The Movies Database (TMDB).  
+**Tech Used:** C#, .NET(WebAPI)  
 
 ## 📈 GitHub Stats
 
