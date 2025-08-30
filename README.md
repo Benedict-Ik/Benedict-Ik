@@ -58,7 +58,8 @@ I occasionally write about tech, productivity, and creativity:
 
 [![LinkedIn Icon](assets/icons/LinkedIn.png)](https://www.linkedin.com/in/benedict-odoh)
 [![Twitter Icon](assets/icons/Twitter.png)](https://x.com/realBenedictIk)
+[![Email Icon](assets/icons/Gmail.png)](benedict.ik98@gmail.com)
 
-
+All icons brovided by Icons8
 ---
 
