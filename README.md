@@ -60,6 +60,6 @@ I occasionally write about tech, productivity, and creativity:
 [![Email Icon](assets/icons/Gmail.png)](mailto:benedict.ik98@gmail.com)
 [![Medium Icon](assets/icons/Medium.png)](https://benedictodoh.medium.com/)
 
-<p>All icons provided by <a href="https://icons8.com" target="_blank" rel="noopener noreferrer">Icons8</a></p>
+<p>All icons provided by <a href="https://icons8.com" target="_blank" rel="noopener noreferrer"><u>Icons8</u></a>.</p>
 
 ---
