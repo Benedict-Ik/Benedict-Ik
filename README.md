@@ -11,7 +11,7 @@ Welcome to my GitHub Profile! I'm a software engineer passionate about leveragin
 
 ## 🛠️ Tech Stack
 
-Here are some tools and technologies I work with regularly:
+Here are some tools and technologies I work with:
 
 | Tech Stack | Technologies/Tools/Frameworks
 |----------|------------|
