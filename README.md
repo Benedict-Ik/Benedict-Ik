@@ -1,14 +1,13 @@
 # 👋 Hi there, I'm Benedict Odoh
 
-Welcome to my GitHub! I'm a software engineer passionate about leveraging technology to solve business needs and drive business transformation.
+Welcome to my GitHub Profile! I'm a software engineer passionate about leveraging technology to solve business needs and drive business transformation.
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: [Your current project or focus]
-- 🌱 Learning: [Technologies or concepts you're exploring]
-- 💬 Ask me about: [Your areas of expertise]
-- 📫 How to reach me: [Email or social media]
-- ⚡ Fun fact: [Something quirky or interesting about you]
+- 🔭 Currently working on: Building enterprise-scale web applications using .NET and Angular
+- 🌱 Learning: Cloud Architecture, Microservices, and AI/ML integration in web applications
+- 💬 Ask me about: .NET Development, Software Architecture, Clean Code practices
+- ⚡ Fun fact: I'm an avid music lover and I love playing puzzle games
 
 ## 🛠️ Tech Stack
 
