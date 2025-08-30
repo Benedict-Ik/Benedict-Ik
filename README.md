@@ -63,4 +63,3 @@ I occasionally write about tech, productivity, and creativity:
 <p>All icons provided by <a href="https://icons8.com" target="_blank" rel="noopener noreferrer">Icons8</a></p>
 
 ---
-
