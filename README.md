@@ -32,12 +32,12 @@ Here are a few highlights from my portfolio:
 
 ### [JWT Authentication with Identity and Refresh Tokens](https://github.com/Benedict-Ik/JWT_Authentication_with_Identity_and_Refresh_Tokens)
 **Description:** This project demonstrates secure JWT authentication in ASP.NET Core using ASP.NET Core Identity and refresh tokens, covering: User registration, Login, Token generation and validation, and Secure handling of refresh tokens.   
-**Tech Used:** C#, .NET(WebAPI)  
+**Tech Used:** C#, .NET(WebAPI).  
 
 ### [TMDB Wrapper Service](https://github.com/Benedict-Ik/TmdbWrapperService)
 
 **Description:** A wrapper service built to consume endpoints from the parent API, The Movies Database (TMDB).  
-**Tech Used:** C#, .NET(WebAPI)  
+**Tech Used:** C#, .NET(WebAPI).  
 
 ## 📈 GitHub Stats
 
