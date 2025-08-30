@@ -62,5 +62,6 @@ I occasionally write about tech, productivity, and creativity:
 [![Medium Icon](assets/icons/Medium.png)](https://benedictodoh.medium.com/)
 
 <p>All icons provided by <a href="https://icons8.com" target="_blank" rel="noopener noreferrer">Icons8</a></p>
+
 ---
 
