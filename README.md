@@ -55,11 +55,15 @@ I occasionally write about tech, productivity, and creativity:
 
 ## 🌐 Let's Connect
 
-[![LinkedIn Icon](assets/icons/LinkedIn.png)](https://www.linkedin.com/in/benedict-odoh)
+1. [Linkedin](https://www.linkedin.com/in/benedict-odoh)
+2. [Twitter](https://x.com/realBenedictIk)
+3. [My Email](mailto:benedict.ik98@gmail.com)
+4. [Medium](https://benedictodoh.medium.com/)
+<!-- [![LinkedIn Icon](assets/icons/LinkedIn.png)](https://www.linkedin.com/in/benedict-odoh)
 [![Twitter Icon](assets/icons/Twitter-light.png)](https://x.com/realBenedictIk)
 [![Email Icon](assets/icons/Gmail.png)](mailto:benedict.ik98@gmail.com)
-[![Medium Icon](assets/icons/Medium.png)](https://benedictodoh.medium.com/)
+[![Medium Icon](assets/icons/Medium.png)](https://benedictodoh.medium.com/) -->
 
-<p>All icons provided by <a href="https://icons8.com" target="_blank" rel="noopener noreferrer"><u>Icons8</u></a>.</p>
+<!-- <p>All icons provided by <a href="https://icons8.com" target="_blank" rel="noopener noreferrer"><u>Icons8</u></a>.</p> -->
 
 ---
