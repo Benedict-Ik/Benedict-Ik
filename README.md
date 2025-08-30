@@ -59,8 +59,8 @@ I occasionally write about tech, productivity, and creativity:
 - 💼 [LinkedIn](#)
 - 🐦 [Twitter](#)
 
-- ![LinkedIn Icon](https://fontawesome.com/icons/linkedin?f=brands&s=solid&pc=%2374C0FC&sc=%2374C0FC) [LinkedIn](#)
-- ![Twitter Icon](image-url) [Twitter](#)
+- ![LinkedIn Icon](assets/icons/LinkedIn.png) [LinkedIn](https://www.linkedin.com/in/benedict-odoh)
+- ![Twitter Icon](assets/icons/Twitter.png) [Twitter](https://x.com/realBenedictIk)
 
 
 ---
