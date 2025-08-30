@@ -14,17 +14,9 @@ Welcome to my GitHub! I'm a software engineer passionate about leveraging techno
 
 Here are some tools and technologies I work with regularly:
 
-| Languages | Frameworks | Tools & Platforms |
-|----------|------------|-------------------|
-| JavaScript | React, Next.js | Git, GitHub |
-| Python | Django, Flask | VS Code, Docker |
-| TypeScript | Node.js | Postman, Firebase |
-| HTML/CSS | Tailwind, Bootstrap | Linux, AWS |
-
-
-| Tech Stack | Technology/Tool
+| Tech Stack | Technologies/Tools/Frameworks
 |----------|------------|
-| Frontend | HTML, CSS, TypeScript, Angular, React, Bootstrap, Tailwind CSS|
+| Frontend | HTML, CSS, Angular, React, Bootstrap, Tailwind CSS|
 | Backend | C#, .NET, ASP.NET, ASP.NET Core |
 | Mobile | Flutter, Dart |
 | DBMS | MSSQL, MySQL, PostgreSQL, Oracle Sql, MongoDB |
