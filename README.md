@@ -21,6 +21,16 @@ Here are some tools and technologies I work with regularly:
 | TypeScript | Node.js | Postman, Firebase |
 | HTML/CSS | Tailwind, Bootstrap | Linux, AWS |
 
+
+| Tech Stack | Technology/Tool
+|----------|------------|
+| Frontend | HTML, CSS, TypeScript, Angular, React, Bootstrap, Tailwind CSS|
+| Backend | C#, .NET, ASP.NET, ASP.NET Core |
+| Mobile | Flutter, Dart |
+| DBMS | MSSQL, MySQL, PostgreSQL, Oracle Sql, MongoDB |
+| Version Control | Git, Github, Azure DevOps |
+| Development Tools | Visual Studio, VS Code, Postman, Swagger API |
+
 ## 📂 Featured Projects
 
 Here are a few highlights from my portfolio:
