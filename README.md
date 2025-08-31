@@ -20,7 +20,7 @@ Here are some tools and technologies I work with:
 | Mobile | Flutter, Dart, Kotlin |
 | DBMS | MSSQL, MySQL, PostgreSQL, Oracle SQL, MongoDB |
 | Version Control Tools/Systems | Git, Github, Azure DevOps |
-| Development Tools | Visual Studio, VS Code, Postman, Swagger API |
+| Development Tools | Visual Studio, VS Code, Postman, Swagger UI |
 
 ## 📂 Featured Projects
 
