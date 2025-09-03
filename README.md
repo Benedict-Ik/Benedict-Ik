@@ -26,6 +26,10 @@ Here are some tools and technologies I work with:
 
 Here are a few highlights from my portfolio:
 
+### [ECommerce Web APP (MVC)](https://github.com/Benedict-Ik/ECommerce-App-MVC)  
+**Description:** An ecommerce MVC app for a bookstore.  
+**Tech Used:** ASP.NET MVC
+
 ### [Chronicles](https://github.com/Benedict-Ik/Chronicles)
 **Description:** This is a note app inspired by Smarherd.  
 **Tech Used:** Flutter, Dart.
